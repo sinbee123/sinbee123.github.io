@@ -69,7 +69,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 
 ![image](https://user-images.githubusercontent.com/47412229/193730602-e3dd7235-a825-481a-bb1a-3d6570bec9a0.png)  
 
-name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 실제 보여지는 웹사이트에서는 나타나지 않습니다.  
+~~name~~, description은 웹 사이트에 대한 정보를 입력하는 곳으로 실제 보여지는 웹사이트에서는 나타나지 않습니다.  
 
 ## 2-3. 사이트 작성자  
 
